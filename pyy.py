@@ -1,0 +1,2 @@
+abc = 'KUNAL'
+print(abc)
